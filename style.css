@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  display: block;
+  padding: 15px;
+  border: 2px solid green;
+  margin: 0 auto;
+}
+
+input[type=range] {
+  background: red;
+  color: red;
+}
+
+div {
+  width: 80%;
+  height: 300px;
+  border: 1px solid #000;
+  margin: 10% auto;
+  border-radius: 73%/23rem;
+  background: rgb(128, 128, 128);
+}
+
+p {
+  padding: 15px;
+  text-align: center;
+}
