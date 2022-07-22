@@ -1,3 +1,3 @@
-# Grand-art
-My beautiful zone starting out anew
+# ColorMixer
+a simple tool for mixing colors easily
 
